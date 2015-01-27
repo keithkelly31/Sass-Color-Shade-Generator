@@ -1,5 +1,5 @@
-# sass-color-maps
-Sass-color-maps allows you to easily set colors and generate a Sass map with all of the base colors and shades.
+# Sass Color Shade Generator
+Sass Color Shade Generator allows you to easily set colors and generate a Sass map with all of the base colors and shades.
 
 Setup:
 
